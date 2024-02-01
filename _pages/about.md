@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Moeen Tayebi - About Me"
+title: "Moeen Tayebi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**This Website is under construction.** Please kindly check back for the other tabs later!
+**This Website is under construction.**
+Please kindly check back later to see the updated version of the other tabs!
 
 Hi! I'm (Seyed) Moeen Tayebi!
 
